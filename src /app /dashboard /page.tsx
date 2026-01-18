@@ -1,0 +1,2 @@
+create-coin
+/page.tsx
